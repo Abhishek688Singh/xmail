@@ -494,19 +494,3 @@ MIT License
 ---
 
 > If you found this project useful, consider giving it a ⭐ on GitHub!
-
-[
-  {
-    "to": "developer@example.com",
-    "subject": "🎉 Welcome to XMail",
-    "text": "Hello Alex,\n\nWelcome to XMail!\n\nYour account has been successfully created. We're excited to have you on board.\n\nPlease find the getting-started guide attached to this email.\n\nBest regards,\nAbhishek Singh\nXMail Team",
-    "html": "<h2>🎉 Welcome to XMail!</h2> 
-            <p>Hello <strong>Alex</strong>,</p>
-            <p>Your account has been successfully created. We're excited to have you on board!</p>
-            <p>Please find the <strong>getting-started guide</strong> attached to this email.</p>
-            <p>Best regards,<br><strong>Abhishek Singh</strong><br>XMail Team</p>",
-    "attachment": "./attachments/getting-started-guide.pdf"
-  }
-]
-
-
