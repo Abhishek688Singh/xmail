@@ -1,16 +1,16 @@
 [
   {
-    "to": "singh757abhishek@gmail.com",
-    "subject": "YC Application | Sandhika: Privacy-First Desktop Wellness for Linux",
-    "text": "Hello YC Team,\n\nI'm Abhishek Singh, founder of Sandhika, a privacy-first desktop wellness application for Linux that helps users build healthier computer habits through intelligent reminders, fullscreen focus breaks, hydration tracking, and local-only data storage.\n\nWe've attached a one-page overview of the product and would appreciate any feedback.\n\nThank you for your time.\n\nBest regards,\nAbhishek Singh\nFounder, Sandhika",
-    "html": "<h2>Hello YC Team,</h2><p>I'm <strong>Abhishek Singh</strong>, founder of <strong>Sandhika</strong>, a privacy-first desktop wellness application for Linux that helps users build healthier computer habits through intelligent reminders, fullscreen focus breaks, hydration tracking, and completely local data storage.</p><p>We've attached a one-page overview of the product and would greatly appreciate your feedback.</p><p>Thank you for your time and consideration.</p><p>Best regards,<br><strong>Abhishek Singh</strong><br>Founder, Sandhika</p>",
-    "attachment": "./attachments/hi.txt"
+    "to": "recipient1@example.com",
+    "subject": "Subject: Example Application | Example Product",
+    "text": "Hello Team,\n\nI'm Example Person, founder of Example Product, a sample application designed to demonstrate a product workflow.\n\nWe've attached a sample overview and would appreciate your feedback.\n\nThank you for your time.\n\nBest regards,\nExample Person\nFounder, Example Product",
+    "html": "Hello Team,<br><br>I'm Example Person, founder of Example Product, a sample application designed to demonstrate a product workflow.<br><br>We've attached a sample overview and would appreciate your feedback.<br><br>Thank you for your time.<br><br>Best regards,<br>Example Person<br>Founder, Example Product",
+    "attachment": "./attachments/sample.txt"
   },
-   {
-    "to": "abhi.tab688@gmail.com",
-    "subject": "YC Application | Sandhika: Privacy-First Desktop Wellness for Linux",
-    "text": "Hello YC Team,\n\nI'm Abhishek Singh, founder of Sandhika, a privacy-first desktop wellness application for Linux that helps users build healthier computer habits through intelligent reminders, fullscreen focus breaks, hydration tracking, and local-only data storage.\n\nWe've attached a one-page overview of the product and would appreciate any feedback.\n\nThank you for your time.\n\nBest regards,\nAbhishek Singh\nFounder, Sandhika",
-    "html": "<h2>Hello YC Team,</h2><p>I'm <strong>Abhishek Singh</strong>, founder of <strong>Sandhika</strong>, a privacy-first desktop wellness application for Linux that helps users build healthier computer habits through intelligent reminders, fullscreen focus breaks, hydration tracking, and completely local data storage.</p><p>We've attached a one-page overview of the product and would greatly appreciate your feedback.</p><p>Thank you for your time and consideration.</p><p>Best regards,<br><strong>Abhishek Singh</strong><br>Founder, Sandhika</p>",
-    "attachment": "./template.txt"
+  {
+    "to": "recipient2@example.com",
+    "subject": "Subject: Example Application | Example Product",
+    "text": "Hello Team,\n\nI'm Example Person, founder of Example Product, a sample application designed to demonstrate a product workflow.\n\nWe've attached a sample overview and would appreciate your feedback.\n\nThank you for your time.\n\nBest regards,\nExample Person\nFounder, Example Product",
+    "html": "Hello Team,<br><br>I'm Example Person, founder of Example Product, a sample application designed to demonstrate a product workflow.<br><br>We've attached a sample overview and would appreciate your feedback.<br><br>Thank you for your time.<br><br>Best regards,<br>Example Person<br>Founder, Example Product",
+    "attachment": "./sample.txt"
   }
 ]
